@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Jiahe Shi
+
+I speak Python, MATLAB, C/C++, Julia, Rust, JavaScript and more.
+
+Current topics:
+* Implementation of optimization software
+* Implementation of optimal control algorithms
 
 <!--
 **sjhstone/sjhstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
