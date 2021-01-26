@@ -5,6 +5,7 @@ I speak Python, MATLAB, C/C++, Julia, Rust, JavaScript and more.
 Current topics:
 * Implementation of optimization software
 * Implementation of optimal control algorithms
+* Application of optimization algorithm in computer vision scenarios
 
 Repositories Elsewhere:
 * Tencent cloud CI/CD demo using Docker + Kubernetes [here](https://sjhstone.coding.net/public/https-sjhstone-cn/landing_page/git/files).
