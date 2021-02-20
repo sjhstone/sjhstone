@@ -8,8 +8,8 @@ Current topics:
 * Application of optimization algorithm in computer vision scenarios
 
 Repositories Elsewhere:
-* Tencent cloud CI/CD demo using Docker + Kubernetes [here](https://sjhstone.coding.net/public/https-sjhstone-cn/landing_page/git/files).
-* Control paper re-implementation [here](https://sjhstone.coding.net/public/control/Formation_Control/git/files)
+* [Tencent cloud Docker + Kubernetes CI/CD demo](https://sjhstone.coding.net/public/https-sjhstone-cn/landing_page/git/files).
+* [Control paper re-implementation](https://sjhstone.coding.net/public/control/Formation_Control/git/files)
 
 <!--
 **sjhstone/sjhstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
