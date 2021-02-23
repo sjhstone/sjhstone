@@ -1,6 +1,6 @@
 ### Hi, I'm [Jiahe Shi](https://sjhstone.cn)
 
-I speak Python, MATLAB, C/C++, Julia, Rust, JavaScript and more.
+I speak Python, MATLAB, C/C++, Julia, JavaScript and more.
 
 Current topics:
 * Implementation of optimization software
