@@ -1,4 +1,4 @@
-### Hi, I'm [Jiahe Shi](https://sjhstone.cn)
+### Hi, I'm [Jiahe Shi](https://sjhstone.com) ([石嘉禾](https://sjhstone.cn))
 
 I speak Python, MATLAB, C/C++, Julia, JavaScript and more.
 
